@@ -1,0 +1,17 @@
+asset_id|audited_at|coverage_pct|timing_errors|language|reviewer|audit_no
+AV-201|2062-06-18T09:00:00Z|97|0|en|Mira Chen|1
+AV-201|2062-06-28T10:30:00Z|99|3|en|Owen Park|2
+AV-202|2062-06-30T18:00:00Z|95|2|en|Inez Bell|7
+AV-203|2062-03-14T23:59:59Z|100|0|en|Tari Nwosu|4
+AV-203|2062-06-20T11:00:00Z|100|0|fr|Tari Nwosu|5
+AV-204|2062-06-21T08:15:00Z|96|0|en|Ruth Diaz|3
+AV-205|2062-06-25T12:00:00Z|100|false|en|Sol Kim|8
+AV-205|2062-06-24T12:00:00Z|96|1|en|Sol Kim|6
+AV-206|2062-06-29T16:45:00Z|100|0|en|Bea Ross|9
+AV-206|2062-06-29T16:45:00Z|94|0|en|Bea Ross|9
+AV-207|2062-06-10T07:00:00Z|100|4|en|Noor Ali|10
+AV-207|2062-06-27T07:00:00Z|99|2|en|Noor Ali|11
+AV-999|2062-06-20T10:00:00Z|100|0|en|Unknown|1
+AV-204|2062-07-01T00:00:00Z|100|0|en|Ruth Diaz|12
+AV-202|2062-06-29T10:00:00Z|101|0|en|Inez Bell|6
+broken|row
