@@ -1,0 +1,28 @@
+generated: "2062-06-30"
+cutoff: "2062-06-30T18:00:00Z"
+action_count: 4
+actions:
+  - asset_id: "AV-203"
+    title: "Clay at Noon"
+    result: "MISSING"
+    selected_audit: "-"
+    reviewer: "-"
+    valid_audit_count: 0
+  - asset_id: "AV-204"
+    title: "Winter Signal"
+    result: "BLOCKED"
+    selected_audit: "2062-06-21T08:15:00Z"
+    reviewer: "Ruth Diaz"
+    valid_audit_count: 1
+  - asset_id: "AV-206"
+    title: "Pocket Orchestra"
+    result: "BLOCKED"
+    selected_audit: "2062-06-29T16:45:00Z"
+    reviewer: "Bea Ross"
+    valid_audit_count: 2
+  - asset_id: "AV-201"
+    title: "Harbor Voices"
+    result: "REWORK"
+    selected_audit: "2062-06-28T10:30:00Z"
+    reviewer: "Owen Park"
+    valid_audit_count: 2
